@@ -1,26 +1,38 @@
 [
     { 
         "id": "1",
-        "name": "Java",
-        "genere": "education"
+        "name": "Ponniyin Selvan",
+        "genere": "novel",
+        "author": {
+            "id":"1"
+        }
     },
     
     { 
         "id": "2",
-        "name": "DotNot",
-        "genere": "education"
+        "name": "Thirukkural",
+        "genere": "Poetry",
+        "author": {
+            "id":"4"
+        }
     },
     
     { 
         "id": "3",
-        "name": "Davinci Code",
-        "genere": "history"
+        "name": "Yavana rani",
+        "genere": "novel",
+        "author": {
+            "id":"2"
+        }
     },
     
     { 
         "id": "4",
-        "name": "The Goal",
-        "genere": "motivation"
+        "name": "Sivakamiyin Sabatham",
+        "genere": "novel",
+        "author": {
+            "id":"1"
+        }
     }
 
 ]
